@@ -1,0 +1,5 @@
+FileVersion = 1
+Projects = {Ari2D-Tutorial = {Path = "."}}
+
+[Workspace]
+StartupProject = "Ari2D-Tutorial"

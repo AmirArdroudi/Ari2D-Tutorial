@@ -1,0 +1,6 @@
+FileVersion = 1
+
+[Project]
+Name = "Ari2D-Tutorial"
+StartupObject = "Ari2DTutorial.Program"
+DefaultNamespace = "Ari2DTutorial"

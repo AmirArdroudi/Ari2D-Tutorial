@@ -1,0 +1,14 @@
+# folders
+build/
+
+# files
+BeefSpace_User.toml
+.fips-imports.cmake
+*.ktx
+libs/libblock-heroes.a
+libs/libcari.so
+0log.txt
+log.txt
+log_server.txt
+1log.txt
+*.txt
