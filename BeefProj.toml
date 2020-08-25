@@ -1,4 +1,5 @@
 FileVersion = 1
+Dependencies = {corlib = "*", Ariyana_beef = "*", CurlBeef = "*"}
 
 [Project]
 Name = "Ari2D-Tutorial"
