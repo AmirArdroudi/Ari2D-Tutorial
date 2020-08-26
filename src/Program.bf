@@ -4,9 +4,14 @@ namespace Ari2DTutorial
 {
 	class Program
 	{
-		public static void Main()
+		public static void Main(String[] args)
 		{
-			Console.WriteLine("gello");
+			// allocate app on stack
+			var app = scope GameApp();
+
+			// run the app
+			ari.RunApplication(app);
+			
 		}
 		
 	}
