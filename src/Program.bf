@@ -11,7 +11,7 @@ namespace Ari2DTutorial
 
 			// run the app
 			ari.RunApplication(app);
-			
+			Console.WriteLine("Game exited");
 		}
 		
 	}
