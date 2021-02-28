@@ -17,7 +17,7 @@ here is the link for creating new project in
 
 ## Importing Ariyana Dependencies
 ---
-![imgs/Untitled.png](/assets/blog/GettingStartwithBeef&Ariyana/Untitled.png)
+![](imgs/Untitled.png)
 
 Adding dependencies and project to workspace
 
@@ -39,19 +39,19 @@ Projects are located in "../ariyana/Beef/deps/"
 |   JSON_Beef			|	JSON parser library for Beef  			|
 
 
-![imgs/Untitled2.png](/assets/blog/GettingStartwithBeef&Ariyana/Untitled2.png)
+![](imgs/Untitled2.png)
 
 adding linking dependencies to your project 
 
-![imgs/Untitled3.png](/assets/blog/GettingStartwithBeef&Ariyana/Untitled3.png)
+![](imgs/Untitled3.png)
 
 dependencies for your current game project
 
-![imgs/Untitled4.png](/assets/blog/GettingStartwithBeef&Ariyana/Untitled4.png)
+![](imgs/Untitled4.png)
 
 Ariyana_beef dependencies
 
-![imgs/Untitled5.png](/assets/blog/GettingStartwithBeef&Ariyana/Untitled5.png)
+![](imgs/Untitled5.png)
 
 BeefExtentionsLib Dependencies
 
