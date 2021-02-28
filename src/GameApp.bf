@@ -6,7 +6,8 @@ namespace Ari2DTutorial
 	{
 		// Creating the world
 		World world = new World();
-		// creating Render system2D
+
+		// creating Systems 
 		RenderSystem2D render_system2d = new RenderSystem2D();
 
 		SceneSystem2D sence_system2d = new SceneSystem2D();
